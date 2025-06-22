@@ -59,12 +59,13 @@ cd bussiness-intelligence-dashboard
 
 python -m venv venv
 venv\Scripts\activate   # On Windows
+
 3. Install Dependencies
 
 pip install -r requirements.txt
 If you don't have requirements.txt, install manually:
-
 pip install streamlit pandas joblib xgboost scikit-learn plotly
+
 4. Run the Dashboard
 
 streamlit run dashboardapp.py
