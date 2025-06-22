@@ -85,4 +85,6 @@ Made  by Mohamed Ibrahim
 📌 GitHub: @MohamedIbrahim34
 
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/9f8e46eb-f934-4bda-9e70-6ea379dc0de9)
+![Screenshot 2025-06-22 193126](https://github.com/user-attachments/assets/624dd79a-8435-447d-a142-632809a8792e)
+
 
