@@ -95,8 +95,7 @@ Made  by Mohamed Ibrahim
 ![Screenshot 2025-06-22 193037](https://github.com/user-attachments/assets/b0332872-00a7-44e6-b911-fc7397c92fde)
 ![Screenshot 2025-06-22 193047](https://github.com/user-attachments/assets/3545d936-888e-4704-9f4c-7320aa4b06fb)
 ![Screenshot 2025-06-22 193055](https://github.com/user-attachments/assets/2a34414d-099b-48ca-ac52-59dc3aab940c)
-![Screenshot 2025-06-22 193116](https://github.com/user-attachments/assets/b1ad6060-8702-4c85-8e91-aa109d31b4c8)
-![Screenshot 2025-06-22 193126](https://github.com/user-attachments/assets/64794b89-6e48-476b-8745-a68f73e2d868)
+![Screenshot 2025-06-22 200952](https://github.com/user-attachments/assets/8fe4363c-74b6-43ff-833b-6644f7e0dc58)
 
 
 
