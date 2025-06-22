@@ -22,17 +22,23 @@ Welcome to the **D-Mart Sales Intelligence Dashboard**, a Streamlit-powered web 
 📁 D-mart AI dashboard/
 │
 ├── data/
+
 │ └── DmartSalesData.csv.csv # Raw sales dataset
 
 
 ├── models/
+
 │ ├── sales_predictor.pkl # Trained XGBoost model
+
 │ ├── feature_names.pkl # Feature columns
+
 │ └── test_data.csv # Test set with actual sales
 
 
 ├── dashboardapp.py # Streamlit dashboard app
+
 ├── load_dmart_model.py # Model training & export
+
 ├── preprocess_dmart.py # Data cleaning & feature engineering
 
 
