@@ -83,3 +83,6 @@ Made  by Mohamed Ibrahim
 
 📧 Email:hafeezibrahim000@gmail.com
 📌 GitHub: @MohamedIbrahim34
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/9f8e46eb-f934-4bda-9e70-6ea379dc0de9)
+
